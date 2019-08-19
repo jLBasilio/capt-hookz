@@ -1,0 +1,18 @@
+.form {
+
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 10rem;
+
+  .one-form {
+    background-color: #fcb603;
+    border-radius: 5px;
+    padding: .5rem;
+    max-width: 12rem;
+
+    .one-row {
+      align-items: center;
+      display: flex;
+    }
+  }  
+}
